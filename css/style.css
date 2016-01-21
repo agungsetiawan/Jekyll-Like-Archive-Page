@@ -1,0 +1,38 @@
+.jekyll-like-body{
+	line-height: 1.4 !important;
+	font-family: 'Noto Serif', serif;
+}
+
+.jekyll-like-year{
+	color: #8e95b8;
+	margin-bottom: 10px !important;
+	margin-top: 5px !important;
+}
+
+.jekyll-like-ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.jekyll-like-li{
+	margin-bottom: 20px;
+}
+
+.jekyll-like-li a{
+	text-decoration: none;
+	color : #1F1B1B;
+	font-size: 21px;
+	box-shadow: none !important;
+}
+
+.jekyll-like-li a:hover{
+	text-decoration: underline;
+	transition : none;
+}
+
+.jekyll-like-date{
+	font-size: 10.5px;
+	color: #666;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
